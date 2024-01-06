@@ -112,3 +112,16 @@ main {
     font-size: 1rem;
 }
 
+.about-info-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.about-info {
+    text-align: center;
+}
+
+#what-i-do-description {
+    padding: 30px 150px;
+}

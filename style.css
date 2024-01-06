@@ -2,6 +2,13 @@
     box-sizing: border-box;
     font-family: 'Open Sans', sans-serif;
 }
+
+/* header rlated style */
+
+.header {
+
+}
+
 /* nav related style */
 .text-primary {
     color: #fd6e0a;
@@ -11,6 +18,7 @@ nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 }
 
 .nav-title {
@@ -44,4 +52,8 @@ nav a {
     font-style: normal;
     font-weight: 700;
     padding: 15px 18px;
+}
+
+.banner {
+    padding: 30px 30px 30px 150px;
 }

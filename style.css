@@ -6,8 +6,10 @@
 
 .header {
     background-color: #fff8f3;
-    background-image:url("../web-developer/images/header_bg.png.png")
+    background-image:url("../web-developer/images/header_bg.png.png", url("../portfolio-resources/images/developer.png"))
     background-repeat: no-repeat;
+    background-position: bottom right, top left;
+
 }
 
 /* nav related style */
